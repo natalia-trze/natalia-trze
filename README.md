@@ -6,10 +6,7 @@
 ### <div align="center">I'm Natalia, a Junior Full-stack developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Espress.js  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
