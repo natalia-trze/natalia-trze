@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently studying at WBS Coding School finishing coding bootcamp from Web & App Development
+
+
 
 <!--
 **natalia-trze/natalia-trze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
